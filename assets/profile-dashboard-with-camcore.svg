@@ -123,9 +123,11 @@
     <g><rect x="840" y="1536" width="90" height="34" rx="8" fill="#DFEBFF"/><use href="#i-notion" x="850" y="1544" width="18" height="18" fill="#463688"/><text x="877" y="1558">NOTION</text></g>
     <g><rect x="940" y="1536" width="85" height="34" rx="8" fill="#FFDFF3"/><use href="#i-canva" x="950" y="1544" width="18" height="18" fill="#463688"/><text x="977" y="1558">CANVA</text></g>
     <g><rect x="1035" y="1536" width="90" height="34" rx="8" fill="#DFF2FF"/><use href="#i-bpmn" x="1045" y="1544" width="18" height="18" fill="#463688" style="color:#463688"/><text x="1072" y="1558">BPMN</text></g>
-  </g>
-  <text x="600" y="1603" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="14">PopSQL • ClickUp • Microsoft Office</text>
-  </g>
+    <g><rect x="365" y="1580" width="105" height="34" rx="8" fill="#ECDFFF"/><text x="417" y="1602" text-anchor="middle">POPSQL</text></g>
+    <g><rect x="480" y="1580" width="105" height="34" rx="8" fill="#DFE0FF"/><text x="532" y="1602" text-anchor="middle">CLICKUP</text></g>
+    <g><rect x="595" y="1580" width="170" height="34" rx="8" fill="#FFFADF"/><text x="680" y="1602" text-anchor="middle">MICROSOFT OFFICE</text></g>
+    
+
   </g>
 
 </svg>
