@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="./assets/dashboard.svg" alt="Perfil de Lívia Marques — Desenvolvedora Full Stack" />
+  <img width="100%" src="./assets/dashboard.svg?v=3" alt="Perfil de Lívia Marques — Desenvolvedora Full Stack" />
 </div>
 
 <div align="center">
