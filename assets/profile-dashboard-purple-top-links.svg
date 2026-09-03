@@ -1,4 +1,4 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="1640" viewBox="0 0 1200 1640" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="100" y1="0" x2="1100" y2="1640" gradientUnits="userSpaceOnUse"><stop stop-color="#000000"/><stop offset="0.48" stop-color="#000000"/><stop offset="1" stop-color="#160C3D"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#463688"/><stop offset="0.52" stop-color="#504D9C"/><stop offset="1" stop-color="#463688"/></linearGradient>
@@ -80,7 +80,7 @@
     <g transform="translate(180)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#504D9C" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">1</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">ESTRELA</text></g>
     <g transform="translate(460)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">0</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">FORKS</text></g>
     <g transform="translate(740)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#504D9C" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">26</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">REPOSITÓRIOS</text></g>
-    <g transform="translate(1020)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">38</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">CONTRIBUIÇÕES</text></g>
+    <g transform="translate(1020)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">39</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">CONTRIBUIÇÕES</text></g>
   </g>
 
   <!-- Stack -->
@@ -91,7 +91,7 @@
 
   <!-- Calendário real de contribuições: 2025-08-31 a 2026-09-03 -->
   <text x="65" y="895" fill="#504D9C" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="5">ATIVIDADE REAL</text>
-  <text x="1135" y="895" text-anchor="end" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13">38 CONTRIBUIÇÕES NO ÚLTIMO ANO</text>
+  <text x="1135" y="895" text-anchor="end" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13">39 CONTRIBUIÇÕES NO ÚLTIMO ANO</text>
   <g fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="11"><text x="89" y="924">SET</text><text x="165" y="924">OUT</text><text x="260" y="924">NOV</text><text x="336" y="924">DEZ</text><text x="431" y="924">JAN</text><text x="507" y="924">FEV</text><text x="583" y="924">MAR</text><text x="678" y="924">ABR</text><text x="754" y="924">MAI</text><text x="830" y="924">JUN</text><text x="925" y="924">JUL</text><text x="1001" y="924">AGO</text></g>
   <rect x="89" y="938" width="1007" height="133" rx="12" fill="url(#activityGrid)"/>
   <g>
