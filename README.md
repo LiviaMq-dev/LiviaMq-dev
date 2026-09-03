@@ -94,14 +94,6 @@ Também trabalho com **PopSQL, BPMN, ClickUp e Microsoft Office**.
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiviaMq-dev&theme=midnight_purple" alt="Linguagens mais usadas por Lívia" />
 </div>
 
-## Uma cobrinha a caminho da maçã
-
-<div align="center">
-  <img width="100%" src="./assets/snake-apple.svg" alt="Cobrinha roxa animada tentando alcançar uma maçã" />
-</div>
-
-<br>
-
 <div align="center">
   <strong>Vamos transformar ideias em código?</strong><br>
   Entre em contato comigo pelo LinkedIn ou Instagram.
