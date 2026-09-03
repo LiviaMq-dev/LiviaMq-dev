@@ -22,6 +22,20 @@ Sou **Lívia Marques**, Desenvolvedora Full Stack e estudante de **Análise e De
 - 🎨 Interfaces responsivas e experiências digitais
 - 📚 Sempre aprendendo e construindo novos projetos
 
+## Visão geral
+
+<div align="center">
+  <img width="100%" src="./assets/dashboard.svg" alt="Painel com estatísticas, tecnologias, atividade e projetos de Lívia Marques" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/aalmmaa-group/Bibliotech">Bibliotech</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/LiviaMq-dev/site-pet">Fisioterapia Veterinária</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/LiviaMq-dev/Calculator">Calculadora Web</a>
+</div>
+
 ## Tecnologias e ferramentas
 
 <div align="center">
@@ -50,31 +64,6 @@ Sou **Lívia Marques**, Desenvolvedora Full Stack e estudante de **Análise e De
 
 Também trabalho com **PopSQL, BPMN, ClickUp e Microsoft Office**.
 
-## Projetos em destaque
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>📚 Gestão de Biblioteca</h3>
-      <p>Interface responsiva para gerenciamento de acervo, empréstimos e devoluções, com dashboard e navegação interativa.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://github.com/aalmmaa-group/Bibliotech">Ver repositório →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🐾 Fisioterapia Veterinária</h3>
-      <p>Site responsivo, adaptado para dispositivos móveis, com integração ao WhatsApp, publicação na Netlify e SEO básico.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://github.com/LiviaMq-dev/site-pet">Ver repositório →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧮 Calculadora Web</h3>
-      <p>Aplicação web com operações matemáticas e manipulação dinâmica do DOM.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
-      <a href="https://github.com/LiviaMq-dev/Calculator">Ver repositório →</a>
-    </td>
-  </tr>
-</table>
-
 ## Formação complementar
 
 - **Python Intermediário** — FATEC (2025)
@@ -86,13 +75,6 @@ Também trabalho com **PopSQL, BPMN, ClickUp e Microsoft Office**.
 
 - 🇺🇸 Inglês intermediário
 - 🇪🇸 Espanhol básico
-
-## Minhas estatísticas
-
-<div align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiviaMq-dev&theme=midnight_purple" alt="Estatísticas do GitHub de Lívia" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiviaMq-dev&theme=midnight_purple" alt="Linguagens mais usadas por Lívia" />
-</div>
 
 <div align="center">
   <strong>Vamos transformar ideias em código?</strong><br>
