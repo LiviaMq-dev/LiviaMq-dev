@@ -45,9 +45,9 @@
 
   <!-- Cabeçalho -->
   <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle">
-    <text x="600" y="115" fill="white" font-size="62" font-weight="800" letter-spacing="10">LÍVIA MARQUES</text>
+    <text x="600" y="115" fill="white" font-size="62" font-weight="800" letter-spacing="10">LIVIA MARQUES</text>
     <rect x="380" y="143" width="440" height="4" rx="2" fill="url(#accent)"/>
-    <text x="600" y="198" fill="#FFFFFF" font-size="26" font-weight="700" letter-spacing="8">DESENVOLVEDORA FULL STACK</text>
+    <text x="600" y="198" fill="#FFFFFF" font-size="26" font-weight="700" letter-spacing="8">DESENVOLVEDOR FULL STACK</text>
     <text x="600" y="239" fill="#504D9C" font-family="Consolas, monospace" font-size="16" letter-spacing="3">CRIATIVIDADE • TECNOLOGIA • CÓDIGO</text>
   </g>
   <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
