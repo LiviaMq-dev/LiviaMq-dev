@@ -9,12 +9,12 @@
   </defs>
   <rect x="1" y="1" width="998" height="188" rx="24" fill="url(#bg)" stroke="#463688" stroke-width="2"/><rect x="1" y="1" width="998" height="188" rx="24" fill="url(#grid)"/><use href="#route" stroke="#AA5DC6" stroke-opacity="0.16" stroke-width="3" stroke-dasharray="5 13"/>
   <g filter="url(#snakeGlow)">
-    <circle r="13" fill="#463688"><animateMotion dur="7s" repeatCount="indefinite" begin="-1.05s"><mpath href="#route"/></animateMotion></circle>
-    <circle r="14" fill="#504D9C"><animateMotion dur="7s" repeatCount="indefinite" begin="-0.84s"><mpath href="#route"/></animateMotion></circle>
-    <circle r="15" fill="#5D2B7E"><animateMotion dur="7s" repeatCount="indefinite" begin="-0.63s"><mpath href="#route"/></animateMotion></circle>
-    <circle r="16" fill="#7C43A2"><animateMotion dur="7s" repeatCount="indefinite" begin="-0.42s"><mpath href="#route"/></animateMotion></circle>
-    <circle r="18" fill="url(#snake)"><animateMotion dur="7s" repeatCount="indefinite" begin="-0.21s" rotate="auto"><mpath href="#route"/></animateMotion></circle>
-    <g><animateMotion dur="7s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion><ellipse cx="6" cy="-6" rx="3" ry="4" fill="white"/><ellipse cx="6" cy="6" rx="3" ry="4" fill="white"/><circle cx="7" cy="-6" r="1.4" fill="#07031C"/><circle cx="7" cy="6" r="1.4" fill="#07031C"/></g>
+    <circle r="13" fill="#463688"><animateMotion dur="7s" repeatCount="indefinite"><mpath href="#route"/></animateMotion></circle>
+    <circle r="14" fill="#504D9C"><animateMotion dur="7s" repeatCount="indefinite" begin="-0.21s"><mpath href="#route"/></animateMotion></circle>
+    <circle r="15" fill="#5D2B7E"><animateMotion dur="7s" repeatCount="indefinite" begin="-0.42s"><mpath href="#route"/></animateMotion></circle>
+    <circle r="16" fill="#7C43A2"><animateMotion dur="7s" repeatCount="indefinite" begin="-0.63s"><mpath href="#route"/></animateMotion></circle>
+    <circle r="18" fill="url(#snake)"><animateMotion dur="7s" repeatCount="indefinite" begin="-0.84s" rotate="auto"><mpath href="#route"/></animateMotion></circle>
+    <g><animateMotion dur="7s" repeatCount="indefinite" begin="-1.05s" rotate="auto"><mpath href="#route"/></animateMotion><ellipse cx="6" cy="-6" rx="3" ry="4" fill="white"/><ellipse cx="6" cy="6" rx="3" ry="4" fill="white"/><circle cx="7" cy="-6" r="1.4" fill="#07031C"/><circle cx="7" cy="6" r="1.4" fill="#07031C"/></g>
   </g>
   <g transform="translate(912 92)" filter="url(#appleGlow)"><path d="M0 -30 C8 -43 18 -46 25 -45 C22 -36 16 -30 7 -27" stroke="#78B159" stroke-width="7" stroke-linecap="round"/><path d="M-1 -27 C-18 -42 -39 -29 -40 -5 C-41 24 -17 43 0 45 C18 43 41 24 40 -5 C39 -29 18 -42 1 -27Z" fill="#E84A5F"/><path d="M-5 -23 C-17 -29 -29 -19 -30 -4" stroke="#FF8A92" stroke-width="5" stroke-linecap="round" opacity="0.75"/><animateTransform attributeName="transform" type="scale" values="1;1.07;1" dur="1.4s" repeatCount="indefinite" additive="sum"/></g>
   <text x="50" y="38" fill="#D9C7E7" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">CODANDO UM PASSO DE CADA VEZ...</text>

@@ -90,8 +90,8 @@ Também trabalho com **PopSQL, BPMN, ClickUp e Microsoft Office**.
 ## Minhas estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LiviaMq-dev&show_icons=true&hide_border=false&border_color=463688&bg_color=07031C&title_color=AA5DC6&text_color=FFFFFF&icon_color=504D9C&locale=pt-br" alt="Estatísticas do GitHub de Lívia" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaMq-dev&layout=compact&hide_border=false&border_color=463688&bg_color=07031C&title_color=AA5DC6&text_color=FFFFFF&locale=pt-br" alt="Linguagens mais usadas por Lívia" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiviaMq-dev&theme=midnight_purple" alt="Estatísticas do GitHub de Lívia" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiviaMq-dev&theme=midnight_purple" alt="Linguagens mais usadas por Lívia" />
 </div>
 
 ## Uma cobrinha a caminho da maçã
