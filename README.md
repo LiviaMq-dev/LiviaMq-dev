@@ -5,6 +5,9 @@
   <a href="https://www.instagram.com/liviamarques____/?hl=pt-br">
     <img src="https://img.shields.io/badge/Instagram-463688?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="mailto:biolivia1206@icloud.com">
+    <img src="https://img.shields.io/badge/Email-504D9C?style=for-the-badge&logo=icloud&logoColor=white" alt="E-mail: biolivia1206@icloud.com" />
+  </a>
 </div>
 
 <br />
