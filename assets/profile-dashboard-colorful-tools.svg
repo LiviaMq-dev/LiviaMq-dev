@@ -80,7 +80,7 @@
     <g transform="translate(180)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#504D9C" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">1</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">ESTRELA</text></g>
     <g transform="translate(460)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">0</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">FORKS</text></g>
     <g transform="translate(740)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#504D9C" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">26</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">REPOSITÓRIOS</text></g>
-    <g transform="translate(1020)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">39</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">CONTRIBUIÇÕES</text></g>
+    <g transform="translate(1020)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">40</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">CONTRIBUIÇÕES</text></g>
   </g>
 
   <!-- Stack -->
@@ -91,7 +91,7 @@
 
   <!-- Calendário real de contribuições: 2025-08-31 a 2026-09-03 -->
   <text x="65" y="895" fill="#504D9C" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="5">ATIVIDADE REAL</text>
-  <text x="1135" y="895" text-anchor="end" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13">39 CONTRIBUIÇÕES NO ÚLTIMO ANO</text>
+  <text x="1135" y="895" text-anchor="end" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13">40 CONTRIBUIÇÕES NO ÚLTIMO ANO</text>
   <g fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="11"><text x="89" y="924">SET</text><text x="165" y="924">OUT</text><text x="260" y="924">NOV</text><text x="336" y="924">DEZ</text><text x="431" y="924">JAN</text><text x="507" y="924">FEV</text><text x="583" y="924">MAR</text><text x="678" y="924">ABR</text><text x="754" y="924">MAI</text><text x="830" y="924">JUN</text><text x="925" y="924">JUL</text><text x="1001" y="924">AGO</text></g>
   <rect x="89" y="938" width="1007" height="133" rx="12" fill="url(#activityGrid)"/>
   <g>
@@ -115,27 +115,27 @@
 
   <!-- Ferramentas -->
   <text x="65" y="1465" fill="#504D9C" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="5">TECNOLOGIAS E FERRAMENTAS</text>
-  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#FFFFFF">
-    <g><rect x="65" y="1490" width="110" height="34" rx="8" fill="#160C3D" stroke="#160C3D"/><use href="#i-python" x="76" y="1498" width="18" height="18" fill="white"/><text x="103" y="1512">PYTHON</text></g>
-    <g><rect x="185" y="1490" width="125" height="34" rx="8" fill="#160C3D"/><use href="#i-js" x="196" y="1498" width="18" height="18" fill="#504D9C"/><text x="223" y="1512">JAVASCRIPT</text></g>
-    <g><rect x="320" y="1490" width="95" height="34" rx="8" fill="#463688"/><use href="#i-html" x="330" y="1498" width="18" height="18" fill="white"/><text x="356" y="1512">HTML5</text></g>
-    <g><rect x="425" y="1490" width="85" height="34" rx="8" fill="#160C3D"/><use href="#i-css" x="435" y="1498" width="18" height="18" fill="white"/><text x="461" y="1512">CSS3</text></g>
-    <g><rect x="520" y="1490" width="120" height="34" rx="8" fill="#463688"/><use href="#i-bootstrap" x="530" y="1498" width="18" height="18" fill="white"/><text x="557" y="1512">BOOTSTRAP</text></g>
-    <g><rect x="650" y="1490" width="105" height="34" rx="8" fill="#160C3D"/><use href="#i-node" x="660" y="1498" width="18" height="18" fill="#504D9C"/><text x="687" y="1512">NODE.JS</text></g>
-    <g><rect x="765" y="1490" width="80" height="34" rx="8" fill="#160C3D"/><use href="#i-java" x="775" y="1498" width="18" height="18" fill="white"/><text x="801" y="1512">JAVA</text></g>
-    <g><rect x="855" y="1490" width="65" height="34" rx="8" fill="#160C3D"/><use href="#i-cs" x="864" y="1498" width="18" height="18" fill="white"/><text x="889" y="1512">C#</text></g>
-    <g><rect x="930" y="1490" width="70" height="34" rx="8" fill="#463688"/><use href="#i-db" x="939" y="1498" width="18" height="18" fill="white"/><text x="964" y="1512">SQL</text></g>
-    <g><rect x="1010" y="1490" width="125" height="34" rx="8" fill="#463688"/><use href="#i-db" x="1021" y="1498" width="18" height="18" fill="white"/><text x="1048" y="1512">MYSQL</text></g>
-    <g><rect x="110" y="1536" width="78" height="34" rx="8" fill="#160C3D"/><use href="#i-git" x="120" y="1544" width="18" height="18" fill="#504D9C"/><text x="147" y="1558">GIT</text></g>
-    <g><rect x="198" y="1536" width="92" height="34" rx="8" fill="#160C3D"/><use href="#i-github" x="208" y="1544" width="18" height="18" fill="white"/><text x="234" y="1558">GITHUB</text></g>
-    <g><rect x="300" y="1536" width="125" height="34" rx="8" fill="#463688"/><use href="#i-wp" x="310" y="1544" width="18" height="18" fill="white" style="color:white"/><text x="337" y="1558">WORDPRESS</text></g>
-    <g><rect x="435" y="1536" width="118" height="34" rx="8" fill="#463688"/><use href="#i-elementor" x="445" y="1544" width="18" height="18" fill="white"/><text x="472" y="1558">ELEMENTOR</text></g>
-    <g><rect x="563" y="1536" width="82" height="34" rx="8" fill="#160C3D"/><use href="#i-unity" x="573" y="1544" width="18" height="18" fill="#504D9C"/><text x="600" y="1558">UNITY</text></g>
-    <g><rect x="655" y="1536" width="95" height="34" rx="8" fill="#160C3D"/><use href="#i-blender" x="665" y="1544" width="18" height="18" fill="white"/><text x="692" y="1558">BLENDER</text></g>
-    <g><rect x="760" y="1536" width="70" height="34" rx="8" fill="#160C3D"/><use href="#i-n8n" x="769" y="1544" width="18" height="18" fill="white" style="color:white"/><text x="794" y="1558">N8N</text></g>
-    <g><rect x="840" y="1536" width="90" height="34" rx="8" fill="#463688"/><use href="#i-notion" x="850" y="1544" width="18" height="18" fill="white"/><text x="877" y="1558">NOTION</text></g>
-    <g><rect x="940" y="1536" width="85" height="34" rx="8" fill="#463688"/><use href="#i-canva" x="950" y="1544" width="18" height="18" fill="white"/><text x="977" y="1558">CANVA</text></g>
-    <g><rect x="1035" y="1536" width="90" height="34" rx="8" fill="#160C3D"/><use href="#i-bpmn" x="1045" y="1544" width="18" height="18" fill="#504D9C" style="color:#504D9C"/><text x="1072" y="1558">BPMN</text></g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#160C3D">
+    <g><rect x="65" y="1490" width="110" height="34" rx="8" fill="#FFDFF3"/><use href="#i-python" x="76" y="1498" width="18" height="18" fill="#463688"/><text x="103" y="1512">PYTHON</text></g>
+    <g><rect x="185" y="1490" width="125" height="34" rx="8" fill="#DFF2FF"/><use href="#i-js" x="196" y="1498" width="18" height="18" fill="#463688"/><text x="223" y="1512">JAVASCRIPT</text></g>
+    <g><rect x="320" y="1490" width="95" height="34" rx="8" fill="#ECDFFF"/><use href="#i-html" x="330" y="1498" width="18" height="18" fill="#463688"/><text x="356" y="1512">HTML5</text></g>
+    <g><rect x="425" y="1490" width="85" height="34" rx="8" fill="#DFE0FF"/><use href="#i-css" x="435" y="1498" width="18" height="18" fill="#463688"/><text x="461" y="1512">CSS3</text></g>
+    <g><rect x="520" y="1490" width="120" height="34" rx="8" fill="#FFFADF"/><use href="#i-bootstrap" x="530" y="1498" width="18" height="18" fill="#463688"/><text x="557" y="1512">BOOTSTRAP</text></g>
+    <g><rect x="650" y="1490" width="105" height="34" rx="8" fill="#DFEBFF"/><use href="#i-node" x="660" y="1498" width="18" height="18" fill="#463688"/><text x="687" y="1512">NODE.JS</text></g>
+    <g><rect x="765" y="1490" width="80" height="34" rx="8" fill="#FFDFF3"/><use href="#i-java" x="775" y="1498" width="18" height="18" fill="#463688"/><text x="801" y="1512">JAVA</text></g>
+    <g><rect x="855" y="1490" width="65" height="34" rx="8" fill="#DFF2FF"/><use href="#i-cs" x="864" y="1498" width="18" height="18" fill="#463688"/><text x="889" y="1512">C#</text></g>
+    <g><rect x="930" y="1490" width="70" height="34" rx="8" fill="#ECDFFF"/><use href="#i-db" x="939" y="1498" width="18" height="18" fill="#463688"/><text x="964" y="1512">SQL</text></g>
+    <g><rect x="1010" y="1490" width="125" height="34" rx="8" fill="#DFE0FF"/><use href="#i-db" x="1021" y="1498" width="18" height="18" fill="#463688"/><text x="1048" y="1512">MYSQL</text></g>
+    <g><rect x="110" y="1536" width="78" height="34" rx="8" fill="#FFFADF"/><use href="#i-git" x="120" y="1544" width="18" height="18" fill="#463688"/><text x="147" y="1558">GIT</text></g>
+    <g><rect x="198" y="1536" width="92" height="34" rx="8" fill="#DFEBFF"/><use href="#i-github" x="208" y="1544" width="18" height="18" fill="#463688"/><text x="234" y="1558">GITHUB</text></g>
+    <g><rect x="300" y="1536" width="125" height="34" rx="8" fill="#FFDFF3"/><use href="#i-wp" x="310" y="1544" width="18" height="18" fill="#463688" style="color:#463688"/><text x="337" y="1558">WORDPRESS</text></g>
+    <g><rect x="435" y="1536" width="118" height="34" rx="8" fill="#DFF2FF"/><use href="#i-elementor" x="445" y="1544" width="18" height="18" fill="#463688"/><text x="472" y="1558">ELEMENTOR</text></g>
+    <g><rect x="563" y="1536" width="82" height="34" rx="8" fill="#ECDFFF"/><use href="#i-unity" x="573" y="1544" width="18" height="18" fill="#463688"/><text x="600" y="1558">UNITY</text></g>
+    <g><rect x="655" y="1536" width="95" height="34" rx="8" fill="#DFE0FF"/><use href="#i-blender" x="665" y="1544" width="18" height="18" fill="#463688"/><text x="692" y="1558">BLENDER</text></g>
+    <g><rect x="760" y="1536" width="70" height="34" rx="8" fill="#FFFADF"/><use href="#i-n8n" x="769" y="1544" width="18" height="18" fill="#463688" style="color:#463688"/><text x="794" y="1558">N8N</text></g>
+    <g><rect x="840" y="1536" width="90" height="34" rx="8" fill="#DFEBFF"/><use href="#i-notion" x="850" y="1544" width="18" height="18" fill="#463688"/><text x="877" y="1558">NOTION</text></g>
+    <g><rect x="940" y="1536" width="85" height="34" rx="8" fill="#FFDFF3"/><use href="#i-canva" x="950" y="1544" width="18" height="18" fill="#463688"/><text x="977" y="1558">CANVA</text></g>
+    <g><rect x="1035" y="1536" width="90" height="34" rx="8" fill="#DFF2FF"/><use href="#i-bpmn" x="1045" y="1544" width="18" height="18" fill="#463688" style="color:#463688"/><text x="1072" y="1558">BPMN</text></g>
   </g>
   <text x="600" y="1603" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="14">PopSQL • ClickUp • Microsoft Office</text>
 

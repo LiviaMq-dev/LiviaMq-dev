@@ -10,5 +10,5 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="./assets/profile-dashboard-purple-top-links.svg" alt="Perfil de Lívia Marques — Desenvolvedora Full Stack" />
+  <img width="100%" src="./assets/profile-dashboard-colorful-tools.svg" alt="Perfil de Lívia Marques — Desenvolvedora Full Stack" />
 </div>
