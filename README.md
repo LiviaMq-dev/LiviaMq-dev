@@ -58,6 +58,7 @@ Também trabalho com **PopSQL, BPMN, ClickUp e Microsoft Office**.
       <h3>📚 Gestão de Biblioteca</h3>
       <p>Interface responsiva para gerenciamento de acervo, empréstimos e devoluções, com dashboard e navegação interativa.</p>
       <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <a href="https://github.com/aalmmaa-group/Bibliotech">Ver repositório →</a>
     </td>
     <td width="33%" valign="top">
       <h3>🐾 Fisioterapia Veterinária</h3>
