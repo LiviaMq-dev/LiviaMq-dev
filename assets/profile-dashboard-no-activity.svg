@@ -1,10 +1,9 @@
-<svg width="1200" height="1640" viewBox="0 0 1200 1640" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="1395" viewBox="0 0 1200 1395" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="100" y1="0" x2="1100" y2="1640" gradientUnits="userSpaceOnUse"><stop stop-color="#000000"/><stop offset="0.48" stop-color="#000000"/><stop offset="1" stop-color="#160C3D"/></linearGradient>
+    <linearGradient id="bg" x1="100" y1="0" x2="1100" y2="1395" gradientUnits="userSpaceOnUse"><stop stop-color="#000000"/><stop offset="0.48" stop-color="#000000"/><stop offset="1" stop-color="#160C3D"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#463688"/><stop offset="0.52" stop-color="#504D9C"/><stop offset="1" stop-color="#463688"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#504D9C" stop-opacity="0.3"/><stop offset="1" stop-color="#504D9C" stop-opacity="0"/></radialGradient>
     <pattern id="fineGrid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#504D9C" stroke-opacity="0.035"/></pattern>
-    <pattern id="activityGrid" width="19" height="19" patternUnits="userSpaceOnUse"><rect width="14" height="14" rx="3" fill="#463688" fill-opacity="0.11"/></pattern>
     <filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="24"/></filter>
     <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.48"/></filter>
     <symbol id="i-python" viewBox="0 0 24 24"><path d="M14.2.2c3.4.6 3.2 2.1 3.2 5.1v3.2H8.8c-4.9 0-4.7 6.5 0 6.5h1.5v-2.2c0-2.5 2.2-4.6 4.7-4.6h5.4c2 0 3.5-1.7 3.5-3.7 0-5.8-5.1-5-9.7-4.3zM8.7 2.4a1.1 1.1 0 1 1 0 2.2 1.1 1.1 0 0 1 0-2.2zM9.8 23.8c-3.4-.6-3.2-2.1-3.2-5.1v-3.2h8.6c4.9 0 4.7-6.5 0-6.5h-1.5v2.2c0 2.5-2.2 4.6-4.7 4.6H3.6c-2 0-3.5 1.7-3.5 3.7 0 5.8 5.1 5 9.7 4.3zm5.5-2.2a1.1 1.1 0 1 1 0-2.2 1.1 1.1 0 0 1 0 2.2z"/></symbol>
@@ -28,8 +27,8 @@
     <symbol id="i-bpmn" viewBox="0 0 24 24"><circle cx="4" cy="12" r="3"/><rect x="10" y="2" width="7" height="7" rx="1"/><path d="m13.5 14 4 4-4 4-4-4 4-4zM7 12h4M13.5 9v5M17.5 18H20" stroke="currentColor" stroke-width="2" fill="none"/><circle cx="22" cy="18" r="2"/></symbol>
   </defs>
 
-  <rect x="2" y="2" width="1196" height="1636" rx="34" fill="url(#bg)" stroke="#160C3D" stroke-width="4"/>
-  <rect x="2" y="2" width="1196" height="1636" rx="34" fill="url(#fineGrid)"/>
+  <rect x="2" y="2" width="1196" height="1391" rx="34" fill="url(#bg)" stroke="#160C3D" stroke-width="4"/>
+  <rect x="2" y="2" width="1196" height="1391" rx="34" fill="url(#fineGrid)"/>
   <ellipse cx="225" cy="210" rx="340" ry="280" fill="url(#glow)"/><ellipse cx="1020" cy="660" rx="340" ry="300" fill="url(#glow)" opacity="0.62"/>
 
   <!-- Luzes animadas atrás do nome -->
@@ -80,7 +79,7 @@
     <g transform="translate(180)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#504D9C" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">1</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">ESTRELA</text></g>
     <g transform="translate(460)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">0</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">FORKS</text></g>
     <g transform="translate(740)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#504D9C" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">26</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">REPOSITÓRIOS</text></g>
-    <g transform="translate(1020)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">40</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">CONTRIBUIÇÕES</text></g>
+    <g transform="translate(1020)"><ellipse cx="0" cy="685" rx="105" ry="62" fill="#463688" fill-opacity="0.16" filter="url(#blur)"/><text x="0" y="680" fill="white" font-size="40" font-weight="800">41</text><text x="0" y="713" fill="#504D9C" font-size="12" font-weight="800" letter-spacing="4">CONTRIBUIÇÕES</text></g>
   </g>
 
   <!-- Stack -->
@@ -89,21 +88,7 @@
   <path d="M72.5 805H653.5V820H72.5A7.5 7.5 0 0 1 65 812.5A7.5 7.5 0 0 1 72.5 805Z" fill="#FFDFF3"/><rect x="653.5" y="805" width="289" height="15" fill="#DFF2FF"/><rect x="942.5" y="805" width="150" height="15" fill="#ECDFFF"/><path d="M1092.5 805H1127.5A7.5 7.5 0 0 1 1135 812.5A7.5 7.5 0 0 1 1127.5 820H1092.5V805Z" fill="#DFE0FF"/>
   <g font-family="Segoe UI, Arial, sans-serif" font-size="13"><circle cx="75" cy="850" r="5" fill="#FFDFF3"/><text x="89" y="855" fill="#FFFFFF">HTML 55%</text><circle cx="260" cy="850" r="5" fill="#DFF2FF"/><text x="274" y="855" fill="#FFFFFF">CSS 27%</text><circle cx="430" cy="850" r="5" fill="#ECDFFF"/><text x="444" y="855" fill="#FFFFFF">Python / Jupyter 14%</text><circle cx="685" cy="850" r="5" fill="#DFE0FF"/><text x="699" y="855" fill="#FFFFFF">Java 4%</text></g>
 
-  <!-- Calendário real de contribuições: 2025-08-31 a 2026-09-03 -->
-  <text x="65" y="895" fill="#504D9C" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="5">ATIVIDADE REAL</text>
-  <text x="1135" y="895" text-anchor="end" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="13">40 CONTRIBUIÇÕES NO ÚLTIMO ANO</text>
-  <g fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="11"><text x="89" y="924">SET</text><text x="165" y="924">OUT</text><text x="260" y="924">NOV</text><text x="336" y="924">DEZ</text><text x="431" y="924">JAN</text><text x="507" y="924">FEV</text><text x="583" y="924">MAR</text><text x="678" y="924">ABR</text><text x="754" y="924">MAI</text><text x="830" y="924">JUN</text><text x="925" y="924">JUL</text><text x="1001" y="924">AGO</text></g>
-  <rect x="89" y="938" width="1007" height="133" rx="12" fill="url(#activityGrid)"/>
-  <g>
-    <rect x="450" y="976" width="14" height="14" rx="3" fill="#463688"/><rect x="450" y="995" width="14" height="14" rx="3" fill="#463688"/><rect x="450" y="1014" width="14" height="14" rx="3" fill="#160C3D"/>
-    <rect x="469" y="995" width="14" height="14" rx="3" fill="#160C3D"/><rect x="469" y="1014" width="14" height="14" rx="3" fill="#160C3D"/>
-    <rect x="545" y="976" width="14" height="14" rx="3" fill="#463688"/>
-    <rect x="735" y="957" width="14" height="14" rx="3" fill="#463688"/><rect x="735" y="1052" width="14" height="14" rx="3" fill="#463688"/>
-    <rect x="982" y="938" width="14" height="14" rx="3" fill="#463688"/><rect x="982" y="1014" width="14" height="14" rx="3" fill="#504D9C"/><rect x="982" y="1052" width="14" height="14" rx="3" fill="#463688"/>
-    <rect x="1058" y="976" width="14" height="14" rx="3" fill="#463688"/><rect x="1077" y="976" width="14" height="14" rx="3" fill="#160C3D"/><rect x="1077" y="1014" width="14" height="14" rx="3" fill="#504D9C"/>
-  </g>
-  <g fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="11"><text x="908" y="1097">MENOS</text><rect x="956" y="1086" width="12" height="12" rx="3" fill="#463688" fill-opacity="0.11"/><rect x="974" y="1086" width="12" height="12" rx="3" fill="#160C3D"/><rect x="992" y="1086" width="12" height="12" rx="3" fill="#463688"/><rect x="1010" y="1086" width="12" height="12" rx="3" fill="#463688"/><rect x="1028" y="1086" width="12" height="12" rx="3" fill="#504D9C"/><text x="1049" y="1097">MAIS</text></g>
-
+  <g transform="translate(0 -245)">
   <!-- Projetos -->
   <path d="M65 1135H1135" stroke="#160C3D" stroke-opacity="0.55"/>
   <text x="65" y="1175" fill="#504D9C" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="5">PROJETOS PRINCIPAIS</text>
@@ -138,5 +123,6 @@
     <g><rect x="1035" y="1536" width="90" height="34" rx="8" fill="#DFF2FF"/><use href="#i-bpmn" x="1045" y="1544" width="18" height="18" fill="#463688" style="color:#463688"/><text x="1072" y="1558">BPMN</text></g>
   </g>
   <text x="600" y="1603" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="14">PopSQL • ClickUp • Microsoft Office</text>
+  </g>
 
 </svg>
