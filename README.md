@@ -13,5 +13,5 @@
 <br />
 
 <div align="center">
-  <img width="100%" src="./assets/profile-dashboard-with-camcore.svg?v=20260904" alt="Perfil de Lívia Marques — Desenvolvedora Full Stack" />
+  <img width="100%" src="https://raw.githubusercontent.com/LiviaMq-dev/LiviaMq-dev/7e5428be9dadaef07175f2e911a3b0f421eab8c4/assets/profile-dashboard-with-camcore.svg" alt="Perfil de Lívia Marques — Desenvolvedora Full Stack" />
 </div>
